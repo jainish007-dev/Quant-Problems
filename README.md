@@ -1,5 +1,7 @@
 Question for the code !
 
+Singleton:-
+
 Implement a singleton.
 In software engineering, oftentimes loggers, settings managers, database connections, and other objects are implemented as singletons. A singleton is a design pattern that restricts the user from creating more than one instance of said object. This means that it cannot be copied or moved.
 
